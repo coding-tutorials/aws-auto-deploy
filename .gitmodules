@@ -1,0 +1,6 @@
+[submodule "aws-front-end"]
+	path = aws-front-end
+	url = https://github.com/plygrynd-jynkyrd/aws-front-end.git
+[submodule "aws-back-end"]
+	path = aws-back-end
+	url = https://github.com/plygrynd-jynkyrd/aws-back-end.git
